@@ -24,7 +24,7 @@ a{
     width : 100px;
 
 .logo{
-    background-image : url("amazon_logo.png");
+    background-image : url("images/amazon_logo.png");
     background-size : cover;
     height : 50px;
     width : 100%;
@@ -173,7 +173,7 @@ main{
 }
 
 .hero-section{
-    background-image: url("hero-section.jpg");
+    background-image: url("images/hero-section.jpg");
     background-size: cover;
     height: 350px;
     display: flex;
@@ -212,40 +212,40 @@ main{
 }
 
 .background-img1{
-    background-image: url("Fuji_Gaming_store_Dashboard_card_2x_EN._SY608_CB564799420_.jpg");
+    background-image: url("images/Fuji_Gaming_store_Dashboard_card_2x_EN._SY608_CB564799420_.jpg");
 }
 .background-img2{
-    background-image: url("camera.jpg");
+    background-image: url("images/camera.jpg");
 }
 .background-img3{
-    background-image: url("earbuds.jpg");
+    background-image: url("images/earbuds.jpg");
 }
 .background-img4{
-    background-image: url("glasses.jpg");
+    background-image: url("images/glasses.jpg");
 }
 .background-img5{
-    background-image: url("bottle.jpg");
+    background-image: url("images/bottle.jpg");
 }
 .background-img6{
-    background-image: url("pepsi_can.jpg");
+    background-image: url("images/pepsi_can.jpg");
 }
 .background-img7{
-    background-image: url("perfume.jpg");
+    background-image: url("images/perfume.jpg");
 }
 .background-img8{
-    background-image: url("shoes.jpg");
+    background-image: url("images/shoes.jpg");
 }
 .background-img9{
-    background-image: url("table.jpg");
+    background-image: url("images/table.jpg");
 }
 .background-img10{
-    background-image: url("toster.webp");
+    background-image: url("images/toster.webp");
 }
 .background-img11{
-    background-image: url("travel_bag.jpg");
+    background-image: url("images/travel_bag.jpg");
 }
 .background-img12{
-    background-image: url("watch.jpg");
+    background-image: url("images/watch.jpg");
 }
 
 .back-img{
@@ -326,7 +326,7 @@ span{
 }
 
 .logo-bot{
-    background-image : url("amazon_logo.png");
+    background-image : url("images/amazon_logo.png");
     background-size : cover;
     height : 50px;
     width: 100px;
